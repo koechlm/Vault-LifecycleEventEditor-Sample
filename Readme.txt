@@ -13,7 +13,7 @@ FEATURES:
 
 REQUIREMENTS:
 ---------------------------------
-- Vault Workgroup, Vault Collaboration or Vault Professional
+- Vault Workgroup or Vault Professional
 - The Job Service feature must be running
 
 
@@ -47,3 +47,7 @@ NOTES:
 SUPPORT:
 ---------------------------------
 No official support is available for this tool.  However you can post questions or comments to the Vault newsgroup http://forums.autodesk.com/t5/Autodesk-Vault/bd-p/101
+
+VERSION HISTORY:
+24.0.0.0 based on SDK 2017: 22.0.56.0 including these changes: updated to SDK 2019 references, included clmloader.dll in project 
+
