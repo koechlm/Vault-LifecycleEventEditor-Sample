@@ -50,6 +50,7 @@ No official support is available for this tool.  However you can post questions 
 
 VERSION HISTORY:
 ---------------------------------
+2022.0.0.0 - updated for 2022 compatibility
 2021.26.0.0 - updated for 2021
 2020.25.0.1 - Fixed licensing issue
 2020.25.0.0 - updated for 2020, including click licensing v2

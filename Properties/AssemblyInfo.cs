@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LifecycleEventEditor 2021")]
+[assembly: AssemblyTitle("LifecycleEventEditor 2022")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Autodesk")]
-[assembly: AssemblyProduct("LifecycleEventEditor 2021")]
+[assembly: AssemblyProduct("LifecycleEventEditor 2022")]
 [assembly: AssemblyCopyright("Copyright © Autodesk 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("2020.26.0.0")]
-[assembly: AssemblyFileVersion("2020.26.0.0")]
+[assembly: AssemblyVersion("2022.0.0.0")]
+[assembly: AssemblyFileVersion("2022.0.0.0")]
