@@ -50,6 +50,7 @@ No official support is available for this tool.  However you can post questions 
 
 VERSION HISTORY:
 ---------------------------------
+2024.0.0.0 - updated for 2024 compatibility
 2023.0.0.0 - updated for 2023 compatibility
 2022.0.0.0 - updated for 2022 compatibility
 2021.26.0.0 - updated for 2021

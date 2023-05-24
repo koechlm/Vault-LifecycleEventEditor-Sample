@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("SDK Sample Application")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Autodesk")]
-[assembly: AssemblyProduct("LifecycleEventEditor 2023")]
-[assembly: AssemblyCopyright("Copyright © Autodesk 2022")]
+[assembly: AssemblyProduct("LifecycleEventEditor 2024")]
+[assembly: AssemblyCopyright("Copyright © Autodesk 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("2023.0.0.1")]
-[assembly: AssemblyFileVersion("2023.0.0.1")]
+[assembly: AssemblyVersion("2024.0.0.0")]
+[assembly: AssemblyFileVersion("2024.0.0.0")]
