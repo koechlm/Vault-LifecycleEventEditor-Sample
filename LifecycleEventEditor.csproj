@@ -47,7 +47,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>bin\x64\Release\2024\</OutputPath>
+    <OutputPath>bin\x64\Release\2025\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -80,32 +80,35 @@
   <ItemGroup>
     <Reference Include="Autodesk.Connectivity.Explorer.Extensibility, Version=28.0.0.0, Culture=neutral, PublicKeyToken=215b0879a7566597, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Autodesk Vault 2024 SDK\bin\x64\Autodesk.Connectivity.Explorer.Extensibility.dll</HintPath>
+      <HintPath>..\..\..\..\OneDrive - Autodesk\Vault Customization\SDK References 2025\Autodesk Vault 2025.1 SDK\Autodesk.Connectivity.Explorer.Extensibility.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Autodesk.Connectivity.WebServices, Version=28.0.0.0, Culture=neutral, PublicKeyToken=215b0879a7566597, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Autodesk Vault 2024 SDK\bin\x64\Autodesk.Connectivity.WebServices.dll</HintPath>
+      <HintPath>..\..\..\..\OneDrive - Autodesk\Vault Customization\SDK References 2025\Autodesk Vault 2025.1 SDK\Autodesk.Connectivity.WebServices.dll</HintPath>
       <Private>True</Private>
+    </Reference>
+    <Reference Include="Autodesk.Connectivity.WebServices.WCF">
+      <HintPath>..\..\..\..\OneDrive - Autodesk\Vault Customization\SDK References 2025\Autodesk Vault 2025.1 SDK\Autodesk.Connectivity.WebServices.WCF.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.DataManagement.Client.Framework, Version=28.0.0.0, Culture=neutral, PublicKeyToken=215b0879a7566597, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Autodesk Vault 2024 SDK\bin\x64\Autodesk.DataManagement.Client.Framework.dll</HintPath>
+      <HintPath>..\..\..\..\OneDrive - Autodesk\Vault Customization\SDK References 2025\Autodesk Vault 2025.1 SDK\Autodesk.DataManagement.Client.Framework.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Autodesk.DataManagement.Client.Framework.Forms, Version=28.0.0.0, Culture=neutral, PublicKeyToken=215b0879a7566597, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Autodesk Vault 2024 SDK\bin\x64\Autodesk.DataManagement.Client.Framework.Forms.dll</HintPath>
+      <HintPath>..\..\..\..\OneDrive - Autodesk\Vault Customization\SDK References 2025\Autodesk Vault 2025.1 SDK\Autodesk.DataManagement.Client.Framework.Forms.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Autodesk.DataManagement.Client.Framework.Vault, Version=28.0.0.0, Culture=neutral, PublicKeyToken=215b0879a7566597, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Autodesk Vault 2024 SDK\bin\x64\Autodesk.DataManagement.Client.Framework.Vault.dll</HintPath>
+      <HintPath>..\..\..\..\OneDrive - Autodesk\Vault Customization\SDK References 2025\Autodesk Vault 2025.1 SDK\Autodesk.DataManagement.Client.Framework.Vault.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Autodesk.DataManagement.Client.Framework.Vault.Forms, Version=28.0.0.0, Culture=neutral, PublicKeyToken=215b0879a7566597, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Autodesk Vault 2024 SDK\bin\x64\Autodesk.DataManagement.Client.Framework.Vault.Forms.dll</HintPath>
+      <HintPath>..\..\..\..\OneDrive - Autodesk\Vault Customization\SDK References 2025\Autodesk Vault 2025.1 SDK\Autodesk.DataManagement.Client.Framework.Vault.Forms.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
@@ -220,9 +223,7 @@
     <Content Include="AdskIdentitySDK.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="AdskLicensingSDK_7.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="AdskLicensingSDK_8.dll" />
     <Content Include="Readme.txt" />
     <Content Include="VLTM-2023.0.0.F-icon.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

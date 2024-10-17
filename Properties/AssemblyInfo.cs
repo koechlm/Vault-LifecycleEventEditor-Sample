@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LifecycleEventEditor 2023")]
+[assembly: AssemblyTitle("LifecycleEventEditor 2025")]
 [assembly: AssemblyDescription("SDK Sample Application")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Autodesk")]
-[assembly: AssemblyProduct("LifecycleEventEditor 2024")]
-[assembly: AssemblyCopyright("Copyright © Autodesk 2023")]
+[assembly: AssemblyProduct("LifecycleEventEditor 2025")]
+[assembly: AssemblyCopyright("Copyright © Autodesk 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("2024.0.0.0")]
-[assembly: AssemblyFileVersion("2024.0.0.0")]
+[assembly: AssemblyVersion("2025.0.0.0")]
+[assembly: AssemblyFileVersion("2025.0.0.0")]
